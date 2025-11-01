@@ -14,7 +14,7 @@
 - 🎓 Master of Science in Information & Communication Technology (MSc ICT)  
 - 🌱 I’m currently learning **React.js, Kafka, and Cloud Automation with Terraform**  
 - 💬 Ask me about **Spring Boot, React, AWS, Kafka, REST APIs**  
-- 📫 Reach me at **jainishvyas.dev@gmail.com**  
+- 📫 Reach me at **7vyas7jainish@gmail.com**  
 - 🌍 Check out my [LinkedIn](https://www.linkedin.com/in/vyas-jainish-53a5601a5/) and [GitHub Portfolio](https://github.com/j7k7)
 
 ---
